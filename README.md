@@ -1,2 +1,0 @@
-# Cafe
-coffee shop
