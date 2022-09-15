@@ -1,0 +1,73 @@
+.navbar{
+    position: fixed;
+    top:0px;
+    width:100%;
+    background-color: white;
+    font-size:bold;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0  20px;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    color:black;
+}
+
+a.blue{
+    color:rgb(13, 139, 146);
+}
+
+.banner{
+background-color:#ffad42be;
+color:white;
+margin-top: 50px;
+text-align:center;
+padding: 75px 0;
+}
+
+#SuperMomImg{
+    height:200px;
+    width:200px;
+    mix-blend-mode:multiply ;
+}
+
+.bold{
+    font-weight:900;
+}
+
+#SuperMommer{
+    color: rgb(13, 139, 146);
+    font-size:75px;
+
+
+}
+
+#greets ul{
+
+    list-style-type: none;
+
+}
+
+.avatar  {
+display:flex;
+align-items: center; 
+justify-content:center;
+ max-width:100%;
+ padding-left: 30px;
+ border-radius:50%;
+ display:inline-block;
+ vertical-align:middle;
+height: auto;
+
+
+}
+.avatar img  {
+background-size:cover;
+width:50px;
+    }
+
+    
